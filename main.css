@@ -8,7 +8,7 @@ body {
     background-color: navajowhite;
     color: black;
     font-family: "Arial Black";
-    background-image: url(img/k3.jpg), url(img/k3.jpg);
+    background-image: url(k3.jpg), url(k3.jpg);
     background-position: left, right;
     background-repeat: repeat-y, repeat-y;
 }
@@ -23,7 +23,7 @@ header {
 main {
     padding: 10px 13%;
 }
-/*   h1 взят с этого сайта https://muzei-mira.com/biografia_hudojnikov/ */
+/*   h1 ГўГ§ГїГІ Г± ГЅГІГ®ГЈГ® Г±Г Г©ГІГ  https://muzei-mira.com/biografia_hudojnikov/ */
 h1 {
     text-align: center;
     display: block;
