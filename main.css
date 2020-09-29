@@ -8,7 +8,7 @@ body {
     background-color: navajowhite;
     color: black;
     font-family: "Arial Black";
-    background-image: url(k3.jpg), url(k3.jpg);
+    background-image: url(img/k3.jpg), url(img/k3.jpg);
     background-position: left, right;
     background-repeat: repeat-y, repeat-y;
 }
